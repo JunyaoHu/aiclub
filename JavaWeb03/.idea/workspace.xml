@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaWeb03:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebc99404-6619-406e-9796-8e75ceda7262" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/static/styles/subject.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/static/styles/user.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27KPV2UgQg2H8WcMyLvFIu85ktU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeField/Web/JavaWeb04&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeField\Web\JavaWeb03\web\setting\user" />
+      <recent name="D:\CodeField\Web\JavaWeb03\web\static\scripts" />
+      <recent name="D:\CodeField\Web\JavaWeb03\web\setting\admin" />
+      <recent name="D:\CodeField\Web\JavaWeb03\src\com\hujunyao\test" />
+      <recent name="D:\CodeField\Web\JavaWeb03\src\com\hujunyao\dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeField\Web\JavaWeb03\web" />
+      <recent name="D:\CodeField\Web\JavaWeb03\web\common" />
+      <recent name="D:\CodeField\Web\JavaWeb03\web\WEB-INF\lib" />
+      <recent name="D:\CodeField\Web\JavaWeb03\web\setting" />
+      <recent name="D:\CodeField\Web\JavaWeb03\web\layui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hujunyao.servlet" />
+      <recent name="com.hujunyao.service" />
+      <recent name="com.hujunyao.service.impl" />
+      <recent name="com.hujunyao.dao" />
+      <recent name="com.hujunyao.dao.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.59">
+    <configuration name="ArticleDaoTest.queryArticleTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWeb03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujunyao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hujunyao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hujunyao.test.ArticleDaoTest" />
+      <option name="METHOD_NAME" value="queryArticleTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleServiceTest.queryArticleById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWeb03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujunyao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hujunyao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hujunyao.test.ArticleServiceTest" />
+      <option name="METHOD_NAME" value="queryArticleById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleServiceTest.queryArticles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWeb03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujunyao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hujunyao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hujunyao.test.ArticleServiceTest" />
+      <option name="METHOD_NAME" value="queryArticles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWeb03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujunyao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hujunyao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hujunyao.test.JdbcUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcUtilsTest.testJdbcUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWeb03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujunyao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hujunyao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hujunyao.test.JdbcUtilsTest" />
+      <option name="METHOD_NAME" value="testJdbcUtils" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.59" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <deployment>
+        <artifact name="JavaWeb03:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaWeb03/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="fa57f782-788d-446a-afa2-1200d78ec685" />
+        <option name="JNDI_PORT" value="2100" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5264" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaWeb03:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JdbcUtilsTest" />
+      <item itemvalue="JUnit.JdbcUtilsTest.testJdbcUtils" />
+      <item itemvalue="JUnit.ArticleDaoTest.queryArticleTitle" />
+      <item itemvalue="JUnit.ArticleServiceTest.queryArticleById" />
+      <item itemvalue="JUnit.ArticleServiceTest.queryArticles" />
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.59" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcUtilsTest.testJdbcUtils" />
+        <item itemvalue="JUnit.JdbcUtilsTest" />
+        <item itemvalue="JUnit.ArticleDaoTest.queryArticleTitle" />
+        <item itemvalue="JUnit.ArticleServiceTest.queryArticles" />
+        <item itemvalue="JUnit.ArticleServiceTest.queryArticleById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ebc99404-6619-406e-9796-8e75ceda7262" name="变更" comment="" />
+      <created>1649065829284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649065829284</updated>
+      <workItem from="1649065830443" duration="1682000" />
+      <workItem from="1649081114300" duration="55658000" />
+      <workItem from="1649207274649" duration="14586000" />
+      <workItem from="1649242203287" duration="1485000" />
+      <workItem from="1649294145298" duration="29000" />
+      <workItem from="1649294923910" duration="210000" />
+      <workItem from="1649296527394" duration="670000" />
+      <workItem from="1649727132995" duration="9206000" />
+      <workItem from="1649745919486" duration="13043000" />
+      <workItem from="1649771943463" duration="955000" />
+      <workItem from="1649812419842" duration="5904000" />
+      <workItem from="1649820001240" duration="10808000" />
+      <workItem from="1649846574535" duration="9192000" />
+      <workItem from="1649897645017" duration="3092000" />
+      <workItem from="1650019274376" duration="3496000" />
+      <workItem from="1650029137758" duration="269000" />
+      <workItem from="1650542700497" duration="1905000" />
+      <workItem from="1650544794380" duration="663000" />
+      <workItem from="1650597587968" duration="1233000" />
+      <workItem from="1650609515613" duration="96000" />
+      <workItem from="1650609624866" duration="302000" />
+      <workItem from="1650609945403" duration="1071000" />
+      <workItem from="1650613692553" duration="1860000" />
+      <workItem from="1650636170172" duration="126000" />
+      <workItem from="1650638610217" duration="148000" />
+      <workItem from="1650678829031" duration="2231000" />
+      <workItem from="1651977826146" duration="42919000" />
+      <workItem from="1652034140183" duration="29795000" />
+      <workItem from="1652101079029" duration="2277000" />
+      <workItem from="1652183597107" duration="11985000" />
+      <workItem from="1652196314606" duration="4241000" />
+      <workItem from="1652253034968" duration="595000" />
+      <workItem from="1652259269072" duration="78342000" />
+      <workItem from="1652444615891" duration="9372000" />
+      <workItem from="1652494503269" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

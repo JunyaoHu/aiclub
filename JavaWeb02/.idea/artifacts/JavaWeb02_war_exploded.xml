@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaWeb02:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWeb02_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWeb02" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="JUnit4" module-name="JavaWeb02" />
+        </element>
+      </element>
+      <element id="library" level="project" name="static" />
+      <element id="javaee-facet-resources" facet="JavaWeb02/web/Web" />
+    </root>
+  </artifact>
+</component>

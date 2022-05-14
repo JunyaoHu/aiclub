@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="aiclub">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="aiclub.war">
+      <element id="artifact" artifact-name="JavaWeb04:war exploded" />
+    </root>
+  </artifact>
+</component>

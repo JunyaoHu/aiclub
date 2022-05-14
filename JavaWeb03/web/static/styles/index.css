@@ -1,0 +1,271 @@
+body {
+    background: #f9f9f9;
+}
+
+#home .home_content {
+    display: flex;
+    flex-direction: row;
+}
+
+#home .home_content .home_left{
+    width: 856px;
+}
+
+#home .home_content .home_left .choiceList {
+    background: #fff;
+    padding: 20px;
+    margin: 10px 10px 10px 0;
+}
+
+
+#home .home_content .home_left .choiceList .tit span {
+    border-left: 5px solid #41b883;
+    display: inline-block;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 10px;
+    overflow: hidden;
+}
+
+#home .home_content .home_left .choiceList .list {
+    padding: 10px 0 0 0;
+}
+
+#home ol, #home ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#home .home_content .home_left .choiceList .list li {
+    width: 50%;
+}
+
+#home .home_content .home_left .choiceList .list li a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+#home .home_content .home_left .choiceList .list li a span.source {
+    background: #f0b628;
+}
+
+#home .home_content .home_left .choiceList .list li a span.course {
+    background: #41b883;
+}
+#home .home_content .home_left .choiceList .list li a span.job {
+    background: #4461f3;
+}
+
+#home .home_content .home_left .choiceList .list li a span {
+    padding: 5px;
+    color: #fff;
+    border-radius: 5px;
+    width: 40px;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+#home .home_content .home_left .choiceList .list li a p {
+    overflow: hidden;
+    padding-left: 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 80%;
+}
+
+.index_list {
+    background: #fff;
+    padding: 20px;
+    margin: 10px 10px 10px 0;
+}
+
+.index_list .list_tab {
+    font-size: 16px;
+    color: #999;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.index_list .list_tab span.choose {
+    border-bottom: 1px solid #666;
+    color: #333;
+}
+
+
+.index_list .list_tab span {
+     width: 80px;
+     text-align: center;
+     display: inline-block;
+     padding-bottom: 15px;
+     cursor: pointer;
+}
+
+.index_list .list_tab span {
+    width: 80px;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+
+#home .home_content .home_left .index_list .list_one {
+    padding: 15px 20px 20px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.index_list .list_one {
+    border-bottom: 1px solid #eee;
+}
+
+
+
+#home .index_list img {
+    max-width: 100px;
+}
+
+.index_list .list_one .info_picture {
+    margin-right: 20px;
+}
+
+
+.index_list .list_one .list_detail {
+    display: flex;
+    align-items: center;
+}
+
+.index_list .list_one .list_detail .info-type {
+    color: #41b883;
+    background: #e4fbf1;
+    margin-right: 10px;
+    padding: 2px 6px;
+    border-radius: 5px;
+}
+
+.index_list .list_one .list_detail .info-author {
+    font-size: 12px;
+    color: #999;
+}
+
+
+#home .home_content .home_right {
+    width: 320px;
+}
+
+.fr {
+    float: right;
+}
+
+.partBase {
+    background: #fff;
+    padding: 5px 10px;
+    margin: 10px 0 10px 0;
+}
+
+
+.partBase .part-tit {
+    padding: 12px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-bottom: 1px solid #e5e5e5;
+    display: flex;
+    justify-content: space-between;
+}
+
+.partBase .part-tit span {
+    border-left: solid #1875da;
+    padding: 0 5px;
+}
+
+.partBase .part-tit .more {
+    color: #999999;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.partBase .class-item {
+    margin-top: 10px;
+    padding: 0 10px 10px 10px;
+    border-bottom: 1px solid #dedede;
+}
+
+.partBase .class-item .item-header {
+    margin: 15px 0 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.partBase .class-item .item-header .time {
+    color: #999;
+}
+
+.partBase .class-item .item-header .status a {
+    font-size: 12px;
+    padding: 4px 6px;
+    background-color: #ccdfff;
+    border-radius: 3px;
+    color: #1875da;
+}
+
+.partBase .class-item .item-body .title {
+    font-size: 20px;
+}
+
+.meetingBox .boxArea {
+    border: 1px solid #eee;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: nowrap;
+}
+
+.meetingBox img {
+    padding: 5px;
+}
+
+.meetingBox .timeArea {
+    background: #9bb2fd;
+    padding: 10px;
+    color: #fff;
+    margin: 5px;
+}
+
+.meetingBox .timeArea h2 {
+    margin: 5px 0;
+}
+
+.meetingBox .rowMsg {
+    padding: 15px 10px 0 10px;
+}
+
+.meetingBox .enter {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.meetingBox .rowMsg .row {
+    padding-bottom: 12px;
+    color: #666;
+}
+
+.meetingBox .enter a {
+    padding: 5px 15px;
+    background: #41b883;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 20px;
+}
